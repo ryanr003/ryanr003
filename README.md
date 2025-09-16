@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a Senior at Iowa State University, double-majoring in Data Science and Computer Science with a Minor in Statistics. I have extensive experience working in the tech industry, using effective communication in a fast-paced environment. I am often described as dependable, strategic, and willing to improve. While at Iowa State, I developed skills in Computer Science, Statistics, and Math to pursue a future career in Data Analytics and Software Engineering.
+I am currently a Senior (last semester) at Iowa State University, double-majoring in Data Science and Computer Science with a Minor in Statistics. I have extensive experience working in the tech industry, using effective communication in a fast-paced environment. I am often described as dependable, strategic, and willing to improve. While at Iowa State, I developed skills in Computer Science, Statistics, and Math to pursue a future career in Data Analytics and Software Engineering.
 
 
 ## 🌐 Socials:
