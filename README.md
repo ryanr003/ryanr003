@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a recent alumnus of Iowa State University, obtaining dual degrees in Data Science and Computer Science with a Minor in Statistics. I have extensive experience working in the tech industry, utilizing effective communication in a fast-paced environment. I am often described as dependable, strategic, and willing to learn. While at Iowa State, I developed skills in Computer Science, Statistics, and Math to pursue a future career in Data Analytics, Software Engineering, or IT-related positions.
+I am a recent alumnus of Iowa State University, obtaining dual degrees in Data Science and Computer Science with a Minor in Statistics. I have valuable experience working in the tech industry, utilizing effective communication in a team environment. I am often described as dependable, strategic, and willing to learn. While at Iowa State, I developed skills in Computer Science, Statistics, and Math to pursue a future career in Data Analytics, Software Engineering, or IT-related positions.
 
 
 ## 🌐 Socials:
